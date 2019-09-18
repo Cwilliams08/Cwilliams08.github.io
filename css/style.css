@@ -1,0 +1,18 @@
+body {
+    background-color: white;
+    color: blue;
+}
+
+h1 {
+    color: red;
+    border: double;
+}
+
+p {
+    color: black;
+    border: dashed;
+}
+
+h2 {
+    color: purple;
+}
